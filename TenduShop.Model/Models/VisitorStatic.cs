@@ -18,10 +18,5 @@ namespace TenduShop.Model.Models
         [MaxLength(50)]
         public string IpAdress { set; get; }
 
-
-
-
-
-
     }
 }
