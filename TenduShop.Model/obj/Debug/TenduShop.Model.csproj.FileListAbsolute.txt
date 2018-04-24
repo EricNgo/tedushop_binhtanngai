@@ -9,3 +9,15 @@ E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Model\obj\Debug\TenduShop.Model.csp
 E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Model\obj\Debug\TenduShop.Model.csproj.CopyComplete
 E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Model\obj\Debug\TenduShop.Model.dll
 E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Model\obj\Debug\TenduShop.Model.pdb
+E:\Tedu\Final\SourceCode\Github\TenduShop.Model\bin\Debug\TenduShop.Model.dll.config
+E:\Tedu\Final\SourceCode\Github\TenduShop.Model\bin\Debug\TenduShop.Model.dll
+E:\Tedu\Final\SourceCode\Github\TenduShop.Model\bin\Debug\TenduShop.Model.pdb
+E:\Tedu\Final\SourceCode\Github\TenduShop.Model\bin\Debug\EntityFramework.dll
+E:\Tedu\Final\SourceCode\Github\TenduShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tedu\Final\SourceCode\Github\TenduShop.Model\bin\Debug\EntityFramework.xml
+E:\Tedu\Final\SourceCode\Github\TenduShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tedu\Final\SourceCode\Github\TenduShop.Model\obj\Debug\TenduShop.Model.csprojResolveAssemblyReference.cache
+E:\Tedu\Final\SourceCode\Github\TenduShop.Model\obj\Debug\TenduShop.Model.csproj.CoreCompileInputs.cache
+E:\Tedu\Final\SourceCode\Github\TenduShop.Model\obj\Debug\TenduShop.Model.csproj.CopyComplete
+E:\Tedu\Final\SourceCode\Github\TenduShop.Model\obj\Debug\TenduShop.Model.dll
+E:\Tedu\Final\SourceCode\Github\TenduShop.Model\obj\Debug\TenduShop.Model.pdb

@@ -12,3 +12,17 @@ E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Data\obj\Debug\TenduShop.Data.cspro
 E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Data\obj\Debug\TenduShop.Data.csproj.CopyComplete
 E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Data\obj\Debug\TenduShop.Data.dll
 E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Data\obj\Debug\TenduShop.Data.pdb
+E:\Tedu\Final\SourceCode\Github\TenduShop.Data\bin\Debug\TenduShop.Data.dll.config
+E:\Tedu\Final\SourceCode\Github\TenduShop.Data\bin\Debug\TenduShop.Data.dll
+E:\Tedu\Final\SourceCode\Github\TenduShop.Data\bin\Debug\TenduShop.Data.pdb
+E:\Tedu\Final\SourceCode\Github\TenduShop.Data\bin\Debug\EntityFramework.dll
+E:\Tedu\Final\SourceCode\Github\TenduShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tedu\Final\SourceCode\Github\TenduShop.Data\bin\Debug\TenduShop.Common.dll
+E:\Tedu\Final\SourceCode\Github\TenduShop.Data\bin\Debug\TenduShop.Common.pdb
+E:\Tedu\Final\SourceCode\Github\TenduShop.Data\bin\Debug\EntityFramework.xml
+E:\Tedu\Final\SourceCode\Github\TenduShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tedu\Final\SourceCode\Github\TenduShop.Data\obj\Debug\TenduShop.Data.csprojResolveAssemblyReference.cache
+E:\Tedu\Final\SourceCode\Github\TenduShop.Data\obj\Debug\TenduShop.Data.csproj.CoreCompileInputs.cache
+E:\Tedu\Final\SourceCode\Github\TenduShop.Data\obj\Debug\TenduShop.Data.csproj.CopyComplete
+E:\Tedu\Final\SourceCode\Github\TenduShop.Data\obj\Debug\TenduShop.Data.dll
+E:\Tedu\Final\SourceCode\Github\TenduShop.Data\obj\Debug\TenduShop.Data.pdb
