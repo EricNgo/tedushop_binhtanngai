@@ -1,0 +1,15 @@
+E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Service\bin\Debug\TenduShop.Service.dll
+E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Service\bin\Debug\TenduShop.Service.pdb
+E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Service\bin\Debug\TenduShop.Common.dll
+E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Service\bin\Debug\TenduShop.Data.dll
+E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Service\bin\Debug\TenduShop.Model.dll
+E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Service\bin\Debug\TenduShop.Common.pdb
+E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Service\bin\Debug\TenduShop.Data.pdb
+E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Service\bin\Debug\TenduShop.Data.dll.config
+E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Service\bin\Debug\TenduShop.Model.pdb
+E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Service\bin\Debug\TenduShop.Model.dll.config
+E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Service\obj\Debug\TenduShop.Service.csprojResolveAssemblyReference.cache
+E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Service\obj\Debug\TenduShop.Service.csproj.CoreCompileInputs.cache
+E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Service\obj\Debug\TenduShop.Service.csproj.CopyComplete
+E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Service\obj\Debug\TenduShop.Service.dll
+E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Service\obj\Debug\TenduShop.Service.pdb

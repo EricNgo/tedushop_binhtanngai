@@ -1,0 +1,5 @@
+E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Common\bin\Debug\TenduShop.Common.dll
+E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Common\bin\Debug\TenduShop.Common.pdb
+E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Common\obj\Debug\TenduShop.Common.csproj.CoreCompileInputs.cache
+E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Common\obj\Debug\TenduShop.Common.dll
+E:\Tedu\Final\SourceCode\TenduShop\TenduShop.Common\obj\Debug\TenduShop.Common.pdb
